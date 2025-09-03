@@ -23,7 +23,6 @@ void solve() {
 
 int main() {
 
-    // Now, main() is very simple. It just calls solve() once.
     solve();
 
     return 0;
